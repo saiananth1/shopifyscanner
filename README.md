@@ -1,0 +1,1 @@
+# shopify-store-scanner-exporter.github.io
