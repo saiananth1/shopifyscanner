@@ -21,7 +21,7 @@ Open any Shopify storefront, click the extension, and view product and collectio
 * View scan status and activity logs
 * Handles slower stores and rate limits with safer retry behavior
 
-## Use cases
+## Use Cases
 
 * Ecommerce audits
 * SEO research
@@ -52,7 +52,7 @@ It does not access or collect:
 
 Scan results are stored locally in the user’s browser and are not sent to any external server controlled by the developer.
 
-Privacy Policy: https://saiananth1.github.io/shopify-store-scanner-exporter.github.io/privacy.html
+Privacy Policy: https://saiananth1.github.io/shopifyscanner/privacy.html
 
 ## Permissions
 
@@ -74,19 +74,24 @@ Used to save the latest scan result locally in the user’s browser. This preven
 
 The extension requests access to `http://*/*` and `https://*/*` so it can scan Shopify storefronts on any user-selected domain.
 
+Shopify storefronts can exist on many different domains, so broad host permissions are needed to support stores across different websites.
+
 The extension only reads publicly available storefront information. It does not access private admin pages, passwords, payment data, checkout information, cookies, or customer account data.
 
-## Data handling
+## Data Handling
 
 * Data is processed locally in the browser.
 * Scan results are saved locally for convenience.
 * CSV exports are downloaded directly by the user.
 * No scanned data is sold, shared, rented, or transferred to third parties.
 * No external analytics or tracking service is used.
+* The extension does not send scan results to an external server controlled by the developer.
 
 ## Chrome Web Store
 
 This extension is designed for the Chrome Web Store as a Shopify storefront scanner and CSV export tool.
+
+Chrome Web Store listing: Coming soon.
 
 ## Support
 
