@@ -92,7 +92,7 @@ This extension is designed for the Chrome Web Store as a Shopify storefront scan
 
 For support or questions, contact:
 
-`[add your support email here]`
+`sai@scribbleminds.com`
 
 ## License
 
